@@ -1,0 +1,4 @@
+logfire
+devtools
+pydantic-ai
+gradio
